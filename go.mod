@@ -4,7 +4,7 @@ go 1.22.4
 
 require (
 	github.com/arran4/golang-ical v0.3.0
-	github.com/go-chi/chi/v5 v5.0.12
+	github.com/go-chi/chi/v5 v5.1.0
 	github.com/mattn/go-isatty v0.0.20
 	github.com/rs/zerolog v1.33.0
 	github.com/spf13/cobra v1.8.0
