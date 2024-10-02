@@ -1,6 +1,6 @@
 module github.com/gabe565/ics-availability-server
 
-go 1.23.0
+go 1.23.2
 
 require (
 	github.com/arran4/golang-ical v0.3.1
